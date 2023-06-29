@@ -18,7 +18,7 @@ The dataset used for this analysis consists of the following variables:
 
 The K-means clustering algorithm was applied to the dataset using SAS Enterprise Miner. K-means is an unsupervised machine learning algorithm that partitions the data into K clusters based on the similarity of observations within each cluster. The algorithm iteratively assigns observations to clusters and updates the cluster centroids until convergence.
 
-## Usage
+## Dependencies
 
 SAS Enterprise Miner 15.2 version
 
