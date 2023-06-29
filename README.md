@@ -1,6 +1,6 @@
 # Customer Credit Card Clustering
 
-This repository contains code and data for performing K-means clustering on a customer credit card information dataset (https://www.kaggle.com/datasets/aryashah2k/credit-card-customer-data). The goal is to group customers based on their credit card behavior and identify patterns or segments within the customer base.
+This repository contains code and data for performing K-means clustering on a customer credit card information dataset (https://www.kaggle.com/datasets/aryashah2k/credit-card-customer-data). The goal is to group customers based on their behaviour and identify patterns or segments within the customer base.
 
 ## Dataset
 
